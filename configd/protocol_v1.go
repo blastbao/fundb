@@ -12,7 +12,7 @@ import (
 	"github.com/senarukana/fundb/protocol"
 	"github.com/senarukana/fundb/util"
 
-	"code.google.com/p/goprotobuf/proto"
+	"github.com/golang/protobuf/proto"
 	"github.com/golang/glog"
 )
 

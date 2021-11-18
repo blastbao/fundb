@@ -3,7 +3,7 @@ package protocol
 import (
 	"testing"
 
-	"code.google.com/p/goprotobuf/proto"
+	"github.com/golang/protobuf/proto"
 	"github.com/bmizerany/assert"
 )
 
